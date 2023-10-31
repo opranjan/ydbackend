@@ -1015,9 +1015,9 @@
     "@smithy/util-buffer-from" "^2.0.0"
     tslib "^2.5.0"
 
-"@strapi/provider-upload-cloudinary@^4.6.2":
+"@strapi/provider-upload-cloudinary@3.0.0":
   version "4.15.0"
-  resolved "https://registry.npmjs.org/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-4.15.0.tgz"
+  resolved "https://registry.yarnpkg.com/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-4.15.0.tgz#19039d4bf9d3da9b6e07852bd0a8cf081354add7"
   integrity sha512-tVd7+H4gJpEnDc+hO7UVWT2EiB03CotfIMbi6+/pMyWs6/oZriSHkanOwExs2GM89UfWyJlUV47ldyLOLKLxZA==
   dependencies:
     "@strapi/utils" "4.15.0"
