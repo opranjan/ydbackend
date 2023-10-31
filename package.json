@@ -12,7 +12,7 @@
   "author": "itsCodeWithDEv",
   "license": "ISC",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.0.0 <=20.9.0"
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.18.6",
